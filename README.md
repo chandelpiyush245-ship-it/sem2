@@ -1,2 +1,2 @@
 # sem2
-Jay bajrang bali
+Java script and react
